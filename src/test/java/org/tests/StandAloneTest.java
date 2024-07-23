@@ -15,7 +15,7 @@ import java.time.Duration;
 import java.util.List;
 
 public class StandAloneTest {
-//lets rerun
+//lets run
     public static void main(String[] args) {
         String productName="ZARA COAT 3";
         WebDriverManager.chromedriver().setup();
